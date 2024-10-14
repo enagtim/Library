@@ -1,0 +1,13 @@
+.input {
+  color: var(--color-input);
+  font-family: "Open Sans";
+  font-size: var(--font-s-14);
+  font-style: normal;
+  font-weight: var(--font-w-400);
+  line-height: var(--line-h-32);
+  border: none;
+  background: none;
+  outline: none;
+  width: 100%;
+  padding: 0;
+}

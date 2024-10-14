@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  gap: var(--gap-10);
+  align-items: center;
+}
+.text {
+  color: var(--black-primary);
+  font-size: var(--font-s-18);
+  font-weight: var(--font-w-400);
+  line-height: var(--line-h-20);
+  letter-spacing: 0.1px;
+  cursor: pointer;
+}
+.text_bold {
+  font-weight: var(--font-w-700);
+}
