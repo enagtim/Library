@@ -1,0 +1,13 @@
+.count_book {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border: 1px solid var(--blac-0);
+  border-radius: 100%;
+  color: var(--black-primary);
+  font-size: var(--font-s-14);
+  font-weight: var(--font-w-600);
+  line-height: var(--line-h-32);
+}

@@ -1,0 +1,35 @@
+:root {
+  --black-primary: #121212;
+  --color-input: #252525;
+  --blac-0: black;
+  --grey-input: #dedede;
+
+  --font-w-700: 700;
+  --font-w-400: 400;
+  --font-w-600: 600;
+
+  --font-s-18: 18px;
+  --font-s-14: 14px;
+
+  --gap-10: 10px;
+  --gap-11: 11px;
+  --gap-27: 27px;
+  --gap-20: 20px;
+  --gap-26: 26px;
+
+  --line-h-20: 20px;
+  --line-h-32: 32px;
+  --line-h-n: normal;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+}
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+}
